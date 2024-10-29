@@ -1,0 +1,16 @@
+venv/
+.venv/
+
+__pycache__/
+*.py[cod]
+
+*/migrations/
+
+.env
+*.log
+
+.git
+.gitignore
+
+.vscode/
+.idea/
